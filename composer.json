@@ -4,14 +4,14 @@
     "description": "MiPush API PHP Client",
     "authors": [
         {
-            "name": "XiaoMi",
+            "name": "XiaoMi"
         }
     ],
     "autoload" : {
         "psr-0":{"jpush":"src/"},
         "files": [
-            "autoload.php",
+            "autoload.php"
         ]
 
-    },
+    }
 }
