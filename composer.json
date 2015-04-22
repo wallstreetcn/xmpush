@@ -8,10 +8,6 @@
         }
     ],
     "autoload" : {
-        "psr-0":{"jpush":"src/"},
-        "files": [
-            "autoload.php"
-        ]
-
+        "psr-0":{"xmpush":"xmpush/"}
     }
 }
