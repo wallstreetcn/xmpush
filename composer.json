@@ -1,0 +1,17 @@
+{
+    "name": "wallstreetcn/mipush",
+    "type": "library",
+    "description": "MiPush API PHP Client",
+    "authors": [
+        {
+            "name": "XiaoMi",
+        }
+    ],
+    "autoload" : {
+        "psr-0":{"jpush":"src/"},
+        "files": [
+            "autoload.php",
+        ]
+
+    },
+}
