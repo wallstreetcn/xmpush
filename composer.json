@@ -8,6 +8,6 @@
         }
     ],
     "autoload" : {
-        "psr-0":{"xmpush":"xmpush/"}
+        "psr-4":{"xmpush":"xmpush/"}
     }
 }
